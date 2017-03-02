@@ -24,6 +24,7 @@
     "devDependencies": {
         "benchmark": "^1.0.0",
         "mocha": "^2.1.0",
+        "jquery": "1.12",
         "uglify-js": "^2.0.0",
         "istanbul": "^0.3.22"
     }
